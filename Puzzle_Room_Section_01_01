@@ -5,7 +5,7 @@
  <body>
   <a-scene background="transparent:true" >
    <a-assets>
-    <img id="VR_Wireframe" src="StartRoom.jpg">
+    <img id="VR_Wireframe" src="Puzzles1and3.jpg">
    </a-assets>
    <a-sky src="#VR_Wireframe"></a-sky>
    <a-camera position="0 0 0" fov="90"></a-camera>
